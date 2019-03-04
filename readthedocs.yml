@@ -1,8 +1,0 @@
-# .readthedocs.yml
-
-version: 2
-
-# Build PDF & ePub
-formats:
-  - epub
-  - pdf
